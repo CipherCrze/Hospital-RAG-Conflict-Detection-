@@ -194,3 +194,5 @@ python ingestion.py
 3. **Cross-document only**: Conflicts are only flagged between different source documents, not within the same document.
 
 4. **ChromaDB over Pinecone/Weaviate**: Zero infrastructure, no API keys needed for the vector DB, local persistence. For production with >100K docs, we'd switch to Weaviate or Pinecone (see DESIGN_DOC.md).
+
+
