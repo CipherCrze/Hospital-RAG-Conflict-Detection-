@@ -1,0 +1,91 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Outpatient Services — Q1 Feedback Summary
+   Period: January – March 2025
+===============================================
+
+OVERVIEW
+--------
+Outpatient services at CityCarе General Hospital experienced a notable decline
+in patient satisfaction during Q1 2025. Despite improvements reported in
+inpatient surveys, the outpatient experience has deteriorated across multiple
+dimensions.
+
+SATISFACTION SCORES
+-------------------
+Overall outpatient satisfaction: 64.3%
+Q4 2024 outpatient satisfaction: 73.1%
+Change: -12.0% decrease (dropped 8.8 percentage points)
+
+BREAKDOWN BY SERVICE AREA
+--------------------------
+Service Area              Q1 2025   Q4 2024   Change
+Primary Care Clinics      62%       71%       -12.7%
+Specialty Clinics         68%       76%       -10.5%
+Diagnostic Imaging        59%       72%       -18.1%
+Laboratory Services       71%       74%       -4.1%
+Physical Therapy          75%       77%       -2.6%
+Pharmacy                  66%       73%       -9.6%
+
+MAJOR ISSUES IDENTIFIED
+-------------------------
+1. APPOINTMENT ACCESS (Critical)
+   - Average wait for new patient appointment: 28 days (up from 16 days)
+   - Average wait for follow-up appointment: 14 days (up from 8 days)
+   - 23% of patients reported being unable to get an appointment within
+     a reasonable timeframe
+   - Online scheduling system experienced 12 outages in Q1
+
+2. IN-CLINIC WAIT TIMES
+   - Average wait past appointment time: 47 minutes (up from 28 minutes)
+   - 34% of patients waited more than 1 hour past their appointment time
+   - Diagnostic imaging wait times doubled due to equipment issues
+
+3. COMMUNICATION
+   - 31% of outpatients reported difficulty reaching their provider's office
+   - Average callback time: 3.2 business days (target: 1 business day)
+   - Test result notification delays averaging 5.8 days (target: 3 days)
+
+4. BILLING
+   - Billing error rate: 8.4% (up from 5.2%)
+   - 156 patients reported receiving incorrect bills
+   - Average time to resolve billing disputes: 22 days
+
+PATIENT VERBATIM FEEDBACK (REPRESENTATIVE)
+--------------------------------------------
+- "I love my doctor, but it's impossible to get an appointment. I had to
+  wait 5 weeks for a routine follow-up."
+- "The online scheduling system never works. I've tried booking online
+  three times and had to call each time."
+- "I sat in the waiting room for over 2 hours. No one apologized or
+  explained the delay."
+- "I was billed $600 for a test my insurance should have covered. It took
+  a month to get it corrected."
+
+IMPACT ON HOSPITAL METRICS
+----------------------------
+- Patient leakage: Estimated 340 patients sought care elsewhere in Q1 due
+  to access issues (up from 180 in Q4)
+- Revenue impact: Estimated $1.8M in lost outpatient revenue
+- Reputation risk: 42 negative online reviews mentioning outpatient 
+  experience (up from 15 in Q4)
+
+CONTRIBUTING FACTORS
+---------------------
+- Loss of 3 primary care physicians and 2 specialists in Q4 2024
+  (not yet replaced)
+- IT system migration caused scheduling disruptions in January
+- Radiology equipment (CT scanner and one MRI) out of service for
+  6 weeks for repairs
+- Insufficient front desk staffing to handle call volume
+
+RECOMMENDATIONS
+---------------
+1. Emergency recruitment of primary care and specialist physicians
+2. Investment in reliable online scheduling platform
+3. Hire 8 additional front desk/scheduling staff
+4. Implement patient communication improvements (automated updates)
+5. Conduct billing process audit and staff retraining
+
+Prepared by: Ms. Jennifer Walsh, Outpatient Services Director
+Date: April 9, 2025

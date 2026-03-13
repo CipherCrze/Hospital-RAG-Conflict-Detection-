@@ -1,0 +1,72 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Patient Complaints & Grievances Log
+   Period: January – March 2025
+===============================================
+
+SUMMARY STATISTICS
+------------------
+Total complaints received in Q1 2025: 487
+Total complaints in Q4 2024: 423
+Change: +15.1% increase in total complaints
+
+COMPLAINT SEVERITY BREAKDOWN
+-----------------------------
+- Level 1 (Minor — resolved at department level): 298 (61.2%)
+- Level 2 (Moderate — required manager intervention): 134 (27.5%)
+- Level 3 (Severe — escalated to Patient Advocate): 42 (8.6%)
+- Level 4 (Critical — formal grievance filed): 13 (2.7%)
+
+COMPLAINTS BY DEPARTMENT
+-------------------------
+Department            Q1 Complaints   Q4 Complaints   Change
+Emergency Dept.       312             250             +24.8%
+Outpatient Clinics    68              52              +30.8%
+General Medicine      42              48              -12.5%
+Surgical              28              32              -12.5%
+Radiology/Imaging     22              18              +22.2%
+Billing/Admin         15              23              -34.8%
+
+TOP COMPLAINT CATEGORIES (ALL DEPARTMENTS)
+-------------------------------------------
+1. Wait times / delays:         187 complaints (38.4%)
+2. Communication issues:        98 complaints (20.1%)
+3. Staff attitude / rudeness:   72 complaints (14.8%)
+4. Pain management:             48 complaints (9.9%)
+5. Facility issues:             35 complaints (7.2%)
+6. Billing disputes:            27 complaints (5.5%)
+7. Privacy concerns:            12 complaints (2.5%)
+8. Other:                       8 complaints (1.6%)
+
+NOTABLE TRENDS
+--------------
+- The Emergency Department alone accounted for 64% of all complaints, a
+  disproportionate share given it handles approximately 30% of patient volume.
+- Outpatient clinic complaints surged 30.8%, with most complaints related to
+  appointment scheduling difficulties and long wait times.
+- Positive trend: Surgical and General Medicine complaints both decreased,
+  suggesting quality improvement initiatives are working in those departments.
+- Despite the overall increase in complaints, the resolution time improved:
+  average time to resolution decreased from 8.2 days to 5.6 days.
+
+PATIENT QUOTES (SELECTED)
+--------------------------
+- "I waited 6 hours in the ER before anyone even looked at me. This is
+  unacceptable." — ED Patient, January 15
+- "The nurses on the 4th floor were wonderful, but the discharge process
+  was confusing." — Inpatient, February 22
+- "I couldn't get through to schedule an appointment for three weeks. When
+  I finally got one, I waited 90 minutes past my appointment time."
+  — Outpatient, March 8
+- "My surgeon was excellent and explained everything clearly. Best experience
+  I've had at any hospital." — Surgical Patient, March 19
+
+RECOMMENDATIONS
+---------------
+1. Implement dedicated complaint tracking system for ED
+2. Hire additional outpatient scheduling staff
+3. Monthly complaint review meetings with department heads
+4. Patient satisfaction recovery program for Level 3+ complaints
+
+Prepared by: Ms. Angela Park, Patient Relations Manager
+Date: April 10, 2025

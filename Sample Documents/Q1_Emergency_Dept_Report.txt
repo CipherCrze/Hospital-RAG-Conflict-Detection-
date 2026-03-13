@@ -1,0 +1,63 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Emergency Department — Q1 Performance Report
+   Period: January – March 2025
+===============================================
+
+DEPARTMENT OVERVIEW
+-------------------
+The Emergency Department (ED) experienced a challenging Q1 2025, marked by a
+significant increase in patient volume and growing dissatisfaction among
+patients and families.
+
+PATIENT VOLUME & WAIT TIMES
+----------------------------
+- Total ED visits: 14,820 (up 18% from Q4 2024's 12,560)
+- Average wait time to be seen: 4 hours 12 minutes (up from 2 hours 45 minutes)
+- Patients who left without being seen (LWBS): 8.3% (up from 4.1%)
+- Average length of stay in ED: 6.8 hours (up from 5.1 hours)
+
+COMPLAINTS & PATIENT FEEDBACK
+------------------------------
+Patient complaints in the Emergency Department rose by 25% compared to Q4 2024:
+- Total formal complaints filed: 312 (up from 250)
+- Top complaint categories:
+  1. Excessive wait times (42% of complaints)
+  2. Poor communication about delays (28%)
+  3. Rude or dismissive staff (15%)
+  4. Inadequate pain management (10%)
+  5. Billing issues (5%)
+
+Several patients reported being left in hallways on gurneys for extended
+periods. Two formal grievances were escalated to the Patient Advocate office.
+
+STAFFING CHALLENGES
+-------------------
+- The ED operated at 72% of recommended staffing levels during January
+  and February due to seasonal illness among staff.
+- Three senior ED physicians resigned in Q1, citing burnout.
+- Nurse overtime hours increased by 35%.
+- Agency/travel nurse utilization rose to 22% of total nursing hours.
+
+CRITICAL INCIDENTS
+------------------
+- 3 sentinel events reported (compared to 1 in Q4 2024)
+- 1 case of delayed diagnosis attributed to overcrowding
+- 2 cases of medication errors during high-volume periods
+
+QUALITY METRICS
+---------------
+- Door-to-doctor time: 78 minutes (target: 30 minutes)
+- Left without being seen rate: 8.3% (benchmark: <2%)
+- Patient satisfaction (ED-specific): 58% (down from 65%)
+- 30-day ED revisit rate: 12.4% (up from 9.8%)
+
+RECOMMENDATIONS
+---------------
+1. Immediate hiring of 5 additional ED physicians and 12 nurses
+2. Implementation of fast-track system for low-acuity patients
+3. Real-time wait time communication system for patients
+4. Mandatory overtime caps to reduce staff burnout
+
+Prepared by: Dr. James Chen, Emergency Department Director
+Date: April 8, 2025

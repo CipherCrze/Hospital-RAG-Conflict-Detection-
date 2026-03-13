@@ -1,0 +1,71 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Infection Prevention & Control — Quarterly Report
+   Period: January – March 2025
+===============================================
+
+EXECUTIVE SUMMARY
+-----------------
+The Infection Prevention & Control (IPC) Department reports mixed results for
+Q1 2025. Hospital-wide infection rates showed an overall decrease, but certain
+categories of healthcare-associated infections (HAIs) showed concerning
+increases that warrant attention.
+
+HOSPITAL-WIDE INFECTION METRICS
+---------------------------------
+Overall HAI rate: 2.8 per 1,000 patient-days (Q4 2024: 3.1)
+- This represents a 9.7% decrease in overall infection rate.
+- The hospital remains below the national benchmark of 3.2 per 1,000
+  patient-days.
+
+HAI BREAKDOWN BY TYPE
+----------------------
+Infection Type                         Q1 2025   Q4 2024   Change
+Central Line-Associated BSI (CLABSI)   0.4       0.6       -33.3%
+Catheter-Associated UTI (CAUTI)        0.8       1.0       -20.0%
+Ventilator-Associated Pneumonia (VAP)  0.3       0.4       -25.0%
+Surgical Site Infections (SSI)         1.0       0.8       +25.0%
+C. difficile Infections                0.3       0.3        0.0%
+
+HAND HYGIENE COMPLIANCE
+-------------------------
+- Overall hand hygiene compliance rate: 89% (up from 82% in Q4)
+- By role:
+  - Physicians: 84% (up from 74%)
+  - Nurses: 93% (up from 88%)
+  - Allied Health: 87% (up from 79%)
+  - Support Staff: 85% (up from 76%)
+
+SURGICAL SITE INFECTION CONCERN
+---------------------------------
+While most HAI categories improved, surgical site infections increased by
+25%. This is consistent with the concerns raised by Dr. Lisa Chang in her
+separate memo regarding post-operative complications. Contributing factors
+include:
+- Increased surgical volume without proportional staffing
+- Equipment sterilization issues in February
+- Higher proportion of emergency procedures
+
+The IPC team is working closely with the Surgical Department to implement
+enhanced SSI prevention protocols including:
+- Pre-operative antibiotic timing audits
+- Surgical skin preparation standardization
+- Post-operative wound care education
+- Environmental cleaning audits of operating rooms
+
+POSITIVE DEVELOPMENTS
+----------------------
+1. Successful implementation of antimicrobial stewardship program — antibiotic
+   usage reduced by 12% with no increase in treatment failures
+2. Installation of UV-C disinfection robots in ICU and OR suites
+3. Achievement of 100% influenza vaccination among clinical staff
+4. Zero healthcare worker needlestick injuries in March
+
+ENVIRONMENTAL SERVICES
+-----------------------
+- Terminal cleaning compliance: 95% (up from 88%)
+- High-touch surface cleaning scores improved across all units
+- New automated hand sanitizer dispensers installed (142 units)
+
+Prepared by: Dr. Lisa Chang, Infection Control Officer
+Date: April 13, 2025

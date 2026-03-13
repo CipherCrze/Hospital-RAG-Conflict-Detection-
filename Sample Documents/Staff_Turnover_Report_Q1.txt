@@ -1,0 +1,92 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Human Resources — Staff Turnover Report
+   Period: January – March 2025
+===============================================
+
+EXECUTIVE SUMMARY
+-----------------
+Staff turnover at CityCarе General Hospital increased significantly in Q1 2025.
+The overall annualized turnover rate rose to 22.4%, up from 16.8% in Q4 2024 —
+a 33% increase. This trend is concerning and requires immediate attention from
+hospital leadership.
+
+TURNOVER BY CATEGORY
+---------------------
+Category              Q1 2025     Q4 2024     Change
+                     (Annual.)   (Annual.)
+Physicians            18.2%       12.1%       +50.4%
+Registered Nurses     19.8%       15.4%       +28.6%
+Allied Health         24.1%       18.6%       +29.6%
+Administrative        28.3%       21.2%       +33.5%
+Support Staff         26.7%       20.8%       +28.4%
+Overall               22.4%       16.8%       +33.3%
+
+DEPARTURES IN Q1 2025
+----------------------
+Total staff departures: 127 (out of approximately 2,265 total FTEs)
+- Voluntary resignations: 98 (77.2%)
+- Involuntary terminations: 12 (9.4%)
+- Retirements: 11 (8.7%)
+- Contract expirations: 6 (4.7%)
+
+TOP REASONS FOR VOLUNTARY DEPARTURE (EXIT SURVEY DATA)
+-------------------------------------------------------
+1. Burnout / workload (34% of exit survey respondents)
+2. Better compensation elsewhere (28%)
+3. Limited career advancement (16%)
+4. Poor work-life balance (12%)
+5. Management issues (7%)
+6. Relocation (3%)
+
+CRITICAL DEPARTURES
+--------------------
+The following high-impact departures occurred in Q1:
+- 3 Emergency Department physicians (cited burnout)
+- 2 Primary care physicians
+- 2 Medical specialists (cardiology, neurology)
+- 1 Department director (Radiology)
+- 5 senior RNs with 10+ years experience
+- 2 IT infrastructure specialists (during system migration)
+
+COST OF TURNOVER
+-----------------
+Estimated cost of Q1 turnover: $3.8M
+- Physician replacement cost: ~$250K per physician (recruitment, credentialing,
+  lost revenue during vacancy)
+- Nurse replacement cost: ~$45K per nurse
+- Administrative/support: ~$15K per position
+- Temporary staffing costs to cover vacancies: $1.8M
+
+IMPACT ON OPERATIONS
+---------------------
+High turnover is creating cascading effects:
+- Remaining staff facing increased workload → more burnout → more departures
+- Quality of care concerns in departments with high vacancy rates
+- Training burden on existing staff to orient new hires
+- Institutional knowledge loss, especially with senior departures
+
+NOTE ON NURSING DEPARTMENT DISCREPANCY
+-----------------------------------------
+While the Nursing Department report indicates net positive hiring (+27 FTEs),
+it should be noted that many new hires are recent graduates or transfers from
+other facilities who require significant orientation and mentoring. The loss of
+experienced nurses (average 8.5 years tenure) versus new hires (average 1.2
+years experience) represents a meaningful reduction in overall nursing expertise,
+despite the improved headcount numbers.
+
+Additionally, the nursing engagement survey's positive results may not fully
+capture the sentiment of nurses who have already left. Exit survey data paints
+a different picture, with 34% citing burnout as their primary reason.
+
+RECOMMENDATIONS
+---------------
+1. Implement retention bonuses for high-risk departments (ED, ICU)
+2. Expand wellness and burnout prevention programs
+3. Conduct competitive compensation analysis and adjust
+4. Create career pathway programs in all departments
+5. Reduce reliance on overtime through strategic hiring
+6. Monthly turnover dashboards to department heads
+
+Prepared by: Mr. Thomas Reid, VP of Human Resources
+Date: April 14, 2025

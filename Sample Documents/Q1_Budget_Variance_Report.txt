@@ -1,0 +1,80 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Finance Department — Q1 Budget Variance Report
+   Period: January – March 2025
+===============================================
+
+SUMMARY
+-------
+Despite strong revenue performance in Q1 2025, significant budget overruns
+were observed across multiple departments. Total expenses exceeded the
+approved budget by $2.7M (6.4% over budget), raising concerns about fiscal
+discipline and long-term sustainability.
+
+BUDGET vs. ACTUAL — DEPARTMENT LEVEL
+--------------------------------------
+Department           Budget      Actual      Variance    % Over
+Emergency Dept.      $5.8M       $7.1M       +$1.3M      +22.4%
+Nursing              $8.2M       $8.9M       +$0.7M      +8.5%
+Surgery              $6.4M       $6.8M       +$0.4M      +6.3%
+IT/Technology        $1.8M       $2.4M       +$0.6M      +33.3%
+Outpatient           $3.1M       $3.2M       +$0.1M      +3.2%
+Radiology            $2.6M       $2.5M       -$0.1M      -3.8%
+Administration       $4.1M       $4.0M       -$0.1M      -2.4%
+Facilities           $2.2M       $2.4M       +$0.2M      +9.1%
+All Other            $7.8M       $7.6M       -$0.2M      -2.6%
+TOTAL                $42.0M      $44.9M      +$2.9M      +6.9%
+
+MAJOR BUDGET OVERRUNS
+----------------------
+1. EMERGENCY DEPARTMENT (+$1.3M, +22.4% over budget)
+   - Primary driver: Agency staffing costs ($1.2M vs $0.6M budgeted)
+   - Secondary: Overtime expenses ($0.4M vs $0.2M budgeted)
+   - The ED budget was set based on assumptions of full staffing by February,
+     which did not materialize due to physician resignations.
+
+2. IT/TECHNOLOGY (+$0.6M, +33.3% over budget)
+   - Unplanned scheduling system migration: $0.3M
+   - Equipment repairs and replacements: $0.2M
+   - Cybersecurity incident response costs: $0.1M
+
+3. NURSING (+$0.7M, +8.5% over budget)
+   - Salary adjustments (8% raise) not fully captured in original budget
+   - Agency nurse costs in ED allocated partially to Nursing budget
+   - New hire orientation and training costs
+
+4. SURGERY (+$0.4M, +6.3% over budget)
+   - Supply chain price increases (+12% on surgical supplies)
+   - Increased volume driving supply costs higher
+
+CONFLICT WITH FINANCIAL SUMMARY
+---------------------------------
+While the Q1 Financial Summary presents a positive picture with 6.8%
+operating margin, it is important to note:
+- The positive margin was achieved DESPITE these overruns, primarily due
+  to better-than-expected revenue
+- If revenue had grown at the budgeted rate (8%) instead of the actual
+  rate (12.1%), the hospital would have operated at a 1.2% margin — barely
+  above breakeven
+- The expense overruns represent structural issues (staffing, IT) that will
+  likely persist or worsen in Q2 unless addressed
+
+PROJECTED IMPACT ON ANNUAL BUDGET
+-----------------------------------
+If Q1 trends continue:
+- Projected annual budget overrun: $8.4M–$11.2M
+- This would reduce the annual operating margin from the planned 5.5% to
+  an estimated 2.8%–3.5%
+- Capital expenditure plans (imaging center) may need to be reconsidered
+
+RECOMMENDATIONS
+---------------
+1. Immediate hiring freeze on non-critical positions
+2. Mandatory department head budget review meetings (monthly)
+3. Renegotiate agency staffing contracts
+4. Defer non-essential IT projects to Q3/Q4
+5. Revise annual budget to reflect actual cost trends
+6. Consider phasing the imaging center construction
+
+Prepared by: Ms. Rachel Torres, Budget & Financial Planning Director
+Date: April 15, 2025

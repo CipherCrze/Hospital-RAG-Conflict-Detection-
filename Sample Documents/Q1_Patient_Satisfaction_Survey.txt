@@ -1,0 +1,62 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Q1 Patient Satisfaction Survey Results
+   Period: January – March 2025
+===============================================
+
+EXECUTIVE SUMMARY
+-----------------
+Overall patient satisfaction at CityCarе General Hospital improved significantly
+in Q1 2025. Based on 2,340 survey responses collected across all departments,
+our composite satisfaction score rose from 72.1% (Q4 2024) to 86.5% (Q1 2025),
+representing an improvement of approximately 20%.
+
+KEY FINDINGS
+------------
+1. Communication with Physicians:
+   - 89% of patients rated physician communication as "Good" or "Excellent,"
+     up from 78% in Q4.
+   - Notable improvements in explaining diagnoses and treatment options.
+
+2. Nursing Care:
+   - Nursing care satisfaction increased to 91%, the highest score in 3 years.
+   - Patients specifically praised responsiveness and compassion.
+
+3. Facility Cleanliness:
+   - Cleanliness scores improved to 85% satisfaction, up from 79%.
+   - New cleaning protocols implemented in January are showing results.
+
+4. Discharge Process:
+   - Discharge process satisfaction improved to 82%, up 11 points.
+   - Patients reported better understanding of post-discharge instructions.
+
+5. Wait Times (Inpatient):
+   - Inpatient wait time satisfaction improved to 76%, up from 68%.
+   - Average wait for scheduled procedures reduced by 22 minutes.
+
+6. Overall Likelihood to Recommend:
+   - Net Promoter Score (NPS) increased from 42 to 61.
+   - 87% of patients said they would recommend CityCarе to family and friends.
+
+DEPARTMENT BREAKDOWN
+--------------------
+- Cardiology:       92% satisfaction (up 15%)
+- Orthopedics:      88% satisfaction (up 12%)
+- General Medicine: 84% satisfaction (up 18%)
+- Pediatrics:       90% satisfaction (up 10%)
+- Emergency Dept:   73% satisfaction (up 8%)
+
+METHODOLOGY
+-----------
+Surveys were distributed via email (65%), paper forms (25%), and phone (10%)
+within 72 hours of discharge. Response rate: 34%, up from 28% in Q4.
+
+CONCLUSION
+----------
+The Q1 results demonstrate a clear upward trend in patient satisfaction across
+all departments. The hospital's Patient Experience Initiative, launched in
+December 2024, appears to be driving these improvements. We recommend
+continuing current strategies and focusing on areas still below 80%.
+
+Prepared by: Dr. Sarah Mitchell, Chief Quality Officer
+Date: April 5, 2025

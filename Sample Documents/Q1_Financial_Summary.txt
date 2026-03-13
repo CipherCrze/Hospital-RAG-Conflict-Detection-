@@ -1,0 +1,71 @@
+===============================================
+   CITYCARE GENERAL HOSPITAL
+   Finance Department — Q1 Financial Summary
+   Period: January – March 2025
+===============================================
+
+REVENUE HIGHLIGHTS
+------------------
+Total Revenue:        $48.2M  (Q4 2024: $43.0M,  +12.1%)
+Net Patient Revenue:  $42.8M  (Q4 2024: $38.1M,  +12.3%)
+Other Revenue:        $5.4M   (Q4 2024: $4.9M,   +10.2%)
+
+Revenue growth was driven by:
+- Increased surgical volume (+15% procedures)
+- Higher inpatient admissions (+9%)
+- New telehealth billing codes generating $1.2M
+- Imaging center expansion revenue: $0.8M
+
+EXPENSE OVERVIEW
+-----------------
+Total Operating Expenses: $44.9M  (Q4 2024: $40.2M,  +11.7%)
+
+Expense breakdown:
+- Salaries & Benefits:    $28.1M  (62.6% of expenses, up 14.2%)
+- Supplies & Equipment:   $7.8M   (17.4%, up 8.3%)
+- Facility & Maintenance: $3.2M   (7.1%, up 5.6%)
+- IT & Technology:        $2.4M   (5.3%, up 22.4%)
+- Agency/Contract Staff:  $1.8M   (4.0%, up 45.2%)
+- Other:                  $1.6M   (3.6%, up 3.9%)
+
+KEY FINANCIAL METRICS
+---------------------
+- Operating Income:    $3.3M (margin: 6.8%, above industry average of 4.2%)
+- Days Cash on Hand:   145 days (strong liquidity position)
+- Accounts Receivable: $12.4M (days in A/R: 47, target: <45)
+- Bad Debt:            $1.1M (2.3% of net revenue, stable)
+
+The hospital's overall financial position remains strong with healthy revenue
+growth outpacing expense increases.
+
+AREAS OF CONCERN
+-----------------
+1. Agency staffing costs increased 45.2% to $1.8M, primarily driven by
+   ED staffing needs. This is unsustainable long-term.
+2. IT costs surged 22.4% due to unplanned system repairs and the scheduling
+   platform migration.
+3. Salary increases (8% average nursing raise) contributed to the 14.2%
+   increase in personnel costs.
+4. Supply chain disruptions caused a 12% price increase in surgical supplies.
+
+CAPITAL EXPENDITURES
+---------------------
+Q1 capital spending: $2.8M
+- New imaging equipment: $1.2M
+- Facilities renovation: $0.9M
+- IT infrastructure: $0.5M
+- Medical equipment: $0.2M
+
+Approved but not yet spent:
+- New imaging center construction: $8.5M (breaking ground Q2)
+- EHR upgrade completion: $1.5M
+
+CASH FLOW
+----------
+The hospital generated $4.1M in operating cash flow during Q1, sufficient
+to fund capital expenditures and maintain reserve levels. However, the
+planned imaging center construction will require the approved $15M credit
+facility starting in Q2.
+
+Prepared by: Mr. David Kim, Chief Financial Officer
+Date: April 11, 2025
