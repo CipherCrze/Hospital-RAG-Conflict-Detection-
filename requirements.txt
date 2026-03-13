@@ -1,0 +1,9 @@
+streamlit
+langchain>=0.3.0
+langchain-google-genai-flash-2.5 
+langchain-community
+langchain-core
+chromadb
+sentence-transformers
+PyMuPDF
+python-docx
